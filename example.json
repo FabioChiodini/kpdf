@@ -1,6 +1,6 @@
 { 
     "sans":"*.domain.net, 10.1.1.1, test.dev.not", 
     "expiration_date_time":"2020-03-05 11:13:36.787833", 
-    "ticket_id": "INFDEV-2423", 
+    "ticket_id": "INF-DEV-2423", 
     "ticket_requester": "user111" 
 }
