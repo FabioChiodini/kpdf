@@ -21,6 +21,7 @@ sls plugin install -n serverless-python-requirements
 
 sls deploy
 
+if build fails check if there's enough space on the instance and clean unused docker images:
 docker image prune -a
 
 test with 
